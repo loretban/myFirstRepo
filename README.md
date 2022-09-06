@@ -1,2 +1,2 @@
-# myFirstRepo
+# Loret Esteban-myFirstRepo
 exercice git
