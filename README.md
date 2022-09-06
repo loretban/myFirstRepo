@@ -3,7 +3,7 @@
 
 
 ```
-(*italicized text* exercice git)
+ exercice git
 ```
 
 
